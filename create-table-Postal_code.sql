@@ -1,0 +1,6 @@
+CREATE TABLE Postal_code (
+	id_postal_code SMALLINT(5) UNSIGNED NOT NULL AUTO_INCREMENT,
+	postal_code VARCHAR(5) NOT NULL,
+	PRIMARY KEY (id_postal_code)
+	)
+ENGINE=INNODB;
