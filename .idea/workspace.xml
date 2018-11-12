@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89bf1c43-8639-4e30-a350-43cd097386df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UserManager.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Postal_code.php" beforeDir="false" afterPath="$PROJECT_DIR$/Postal_code.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.php" beforeDir="false" />
-    </list>
+    <list default="true" id="89bf1c43-8639-4e30-a350-43cd097386df" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +12,7 @@
     <session id="1631115597">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="3" />
@@ -194,16 +189,15 @@
       <updated>1541863010908</updated>
       <workItem from="1541863012088" duration="298000" />
       <workItem from="1541865417558" duration="4658000" />
-      <workItem from="1541874419235" duration="518000" />
+      <workItem from="1541874419235" duration="1405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5474000" />
+    <option name="totallyTimeSpent" value="6361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-144" width="1050" height="1223" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25992063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
